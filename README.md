@@ -1,5 +1,5 @@
 # Forkify Project
-![logo](https://user-images.githubusercontent.com/72022227/151396474-146d7d02-85d8-4f9b-a02f-670ffc5068a0.png)
+![logo](https://github.com/giftfromheaven/forkify_app/blob/master/src/img/logo.png?raw=true)
 
 
 ## Сборник рецептов с возможностью загружать свои собственные рецепты.
