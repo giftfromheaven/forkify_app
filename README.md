@@ -1,5 +1,5 @@
-# forkify Project
+# Forkify Project
 
-## Recipe application with custom recipe uploads.
+## Сборник рецептов с возможностью загружать свои собственные рецепты.
 
-http://forkify-app-gfh.netlify.app
+[Демонстрация](http://forkify-app-gfh.netlify.app)
