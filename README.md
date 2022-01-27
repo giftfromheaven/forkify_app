@@ -8,7 +8,7 @@
 #### Данная работа была выполнена используя шаблон MVC (Model-View-Controller)
 
 ### [Демонстрация](http://forkify-app-gfh.netlify.app)
-
+<p align="center">
   <img src="https://github.com/giftfromheaven/forkify_app/blob/master/src/img/screenshot_small.png?raw=true" alt="giftfromheaven's screenshot"/>
 </p>
 
